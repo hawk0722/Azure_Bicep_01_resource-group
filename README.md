@@ -15,7 +15,7 @@ To get going with Bicep:
 
 ```cmd:Azure CLI
 az login
-az deployment sub create  --location <Your location> --template-file main.bicep
+az deployment sub create --location <Your location> --template-file main.bicep
 ```
 
 ## Notes
